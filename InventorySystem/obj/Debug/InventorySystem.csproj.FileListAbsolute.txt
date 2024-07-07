@@ -1,0 +1,7 @@
+C:\OneDrive\OneDrive - Sispro S A Servicos e Tecnologia da Informacao\Documentos\MyProjects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\OneDrive\OneDrive - Sispro S A Servicos e Tecnologia da Informacao\Documentos\MyProjects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\OneDrive\OneDrive - Sispro S A Servicos e Tecnologia da Informacao\Documentos\MyProjects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\OneDrive\OneDrive - Sispro S A Servicos e Tecnologia da Informacao\Documentos\MyProjects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+C:\OneDrive\OneDrive - Sispro S A Servicos e Tecnologia da Informacao\Documentos\MyProjects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\OneDrive\OneDrive - Sispro S A Servicos e Tecnologia da Informacao\Documentos\MyProjects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\OneDrive\OneDrive - Sispro S A Servicos e Tecnologia da Informacao\Documentos\MyProjects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
